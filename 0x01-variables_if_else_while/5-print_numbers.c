@@ -4,7 +4,7 @@
 
 /**
  * main - task function
- * Retun: 0
+ * Return: 0
  */
 
 int main(void)
