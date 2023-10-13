@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_numbers - checks for checks of a digit (0 through 9).
+ * print_numbers - funct checks for checks of a digit (0 to 9).
  *
  * Return: Always 0.
  */
